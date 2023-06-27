@@ -44,35 +44,30 @@ com Arduino precisou-se dos seguintes itens:
     
     A bomba d'água é conectada aos pinos digitais da placa Arduino, através de relés. O relé é utilizados para controlar o acionamento a bomba, ligando-a ou desligando-a conforme a necessidade de irrigação.
     
-    ![Imagem do WhatsApp de 2023-06-25 à(s) 17.20.11.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42f47f7e-c7bc-4b52-9166-a539df3f0476/Imagem_do_WhatsApp_de_2023-06-25_(s)_17.20.11.jpg)
     
-    ![Imagem do WhatsApp de 2023-06-25 à(s) 16.29.02.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a64dbd2-279f-4572-aa5c-22a4558c3a55/Imagem_do_WhatsApp_de_2023-06-25_(s)_16.29.02.jpg)
-    
-    ![Imagem do WhatsApp de 2023-06-25 à(s) 16.29.0.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10f9a90a-0023-48a2-921f-a98eb5eb9c55/Imagem_do_WhatsApp_de_2023-06-25_(s)_16.29.0.jpg)
-    
-    ![Imagem do WhatsApp de 2023-06-25 à(s) 16.29.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4148782e-2cc7-4b7e-9a02-7b1d7b1eca81/Imagem_do_WhatsApp_de_2023-06-25_(s)_16.29.jpg)
-    
+    ![Imagem do WhatsApp de 2023-06-25 à(s) 16 29 0 (1)](https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/1db9139a-b96e-43fa-90bd-ed74dca0895a)
+![Imagem do WhatsApp de 2023-06-25 à(s) 17 20 11 (1)](https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/080ea70e-f34b-47b3-a6e7-e440d201b2eb)
+![Imagem do WhatsApp de 2023-06-25 à(s) 16 29 (1)](https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/3aea4254-b351-45ac-a181-895efe29a0d3)
+![Imagem do WhatsApp de 2023-06-25 à(s) 16 29 02 (1)](https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/b1c4de8b-fe02-4a1d-91b6-46ce59480dcd)
+
 
 - Terrário
     
     O terrário foi construído utilizando tábuas com formas geométricas, proporcionando uma estrutura na qual é possível inserir vidros. Essa configuração permite a entrada de luz solar e proporciona uma visão clara do interior.
     
+![Imagem do WhatsApp de 2023-06-25 à(s) 16 29 01 (1)](https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/0b3d81b3-f821-4f92-94bf-f52eda48065a)
+![Imagem do WhatsApp de 2023-06-25 à(s) 16 29 03 (1)](https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/277e30d0-c0a8-443f-b1fe-49e2aaf0cb4d)
+![Imagem do WhatsApp de 2023-06-25 à(s) 16 28 59 (1)](https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/1d25a5a0-71df-40f2-ae6c-e7380a5e2987)
+![Imagem do WhatsApp de 2023-06-25 à(s) 16 29 00 (1)](https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/ad949867-9490-4715-8616-bf9d165495f9)
 
-![Imagem do WhatsApp de 2023-06-25 à(s) 16.29.01.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8eab7ac1-45c6-46e9-bc1f-b6de299896d8/Imagem_do_WhatsApp_de_2023-06-25_(s)_16.29.01.jpg)
-
-![Imagem do WhatsApp de 2023-06-25 à(s) 16.28.59.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa3067ff-69d4-4025-b3ea-7f728865b56f/Imagem_do_WhatsApp_de_2023-06-25_(s)_16.28.59.jpg)
-
-![Imagem do WhatsApp de 2023-06-25 à(s) 16.29.00.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f038eb5-b5d4-4e25-a4f8-22b2280cb280/Imagem_do_WhatsApp_de_2023-06-25_(s)_16.29.00.jpg)
-
-![Imagem do WhatsApp de 2023-06-25 à(s) 16.29.03.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea1dad25-e686-4a6c-8f12-62ca4934d01b/Imagem_do_WhatsApp_de_2023-06-25_(s)_16.29.03.jpg)
 
 ## Alterações, testes, validação
 
 Devido a alguns problemas técnicos, nossa bomba d'água submersa apresentou defeitos e, infelizmente, não temos tempo suficiente para encontrar uma substituta. Diante dessa situação, surgiu a ideia de utilizar uma bomba de limpador de para-brisa de 12 volts para fornecer água ao nosso canteiro.
 
-![157.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9bbb0ea-4279-4cc7-87bd-dcb33b92acca/157.jpg)
 
-![44457.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aecdf416-7ab0-4086-a2ba-c047bd3e6b5b/44457.jpg)
+![44457 (1)](https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/f86d545f-ee3d-4a3f-ac7d-a0ff109d2083)
+![157 (1)](https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/3b23fffa-6e88-4661-ba9e-288b429e5c48)
 
 Após realizarmos testes com a bomba de para-brisa, constatamos que sua pressão era muito forte, resultando em um excesso de água e o risco de molhar pessoas próximas. Diante dessa situação, surgiu a ideia de utilizar um rolo removedor de pelos e sujeiras de roupas.
 
@@ -80,9 +75,16 @@ O rolo foi cortado ao meio e envolvido com fita isolante, criando assim uma estr
 
 Dessa forma, embora a pressão da água não tenha diminuído, essa solução ajudou a controlar o fluxo, permitindo que a água saísse de forma mais controlada e evitando respingos indesejados.
 
-![Imagem do WhatsApp de 2023-06-25 à(s) 16.29.05.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c03c55a3-76d9-4b3f-9e1e-bb7665a37fd0/Imagem_do_WhatsApp_de_2023-06-25_(s)_16.29.05.jpg)
 
-[Video demostrativo.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5c428caa-3144-47ea-aa46-307b03d43d79/Video_demostrativo.mp4)
+
+
+
+https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/1683517f-9b56-49c3-a4cf-a11587a95f38
+
+
+
+![Imagem do WhatsApp de 2023-06-25 à(s) 16 29 05](https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/af05583f-be0a-45ce-aaf8-d8c64c74dffc)
+
 
 ## Execução do código
 
