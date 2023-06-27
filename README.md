@@ -34,8 +34,9 @@ com Arduino precisou-se dos seguintes itens:
 
 - Diagrama de Caso e Uso
     
-    ![untitled__3_-removebg-preview.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/62d24236-0296-435c-9c35-080ada7bb376/untitled__3_-removebg-preview.png)
-    
+   
+    ![Diagrama de Caso e Uso](https://github.com/anacastro26/SISTEMA-DE-IRRIGA-O-AUTOMATIZADO-UTILIZANDO-PLATAFORMA-ARDUINO/assets/79887747/4cf52286-c95e-475d-b1e7-8c890746ee2e)
+
 - Conexões
     
     A conexão do sistema realizada da seguinte maneira:
